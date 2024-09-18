@@ -7,4 +7,4 @@ I am a student of Purdue University Northwest, and I love paddleboarding.
 
 My professional aspirations include working with data and software engineering. 
 
-I will post projects, and any contributions I ever make here.
+I will post projects, and any contributions I ever make here. 
